@@ -1,4 +1,9 @@
-# Groupifier [![Build Status](https://travis-ci.org/jonatanklosko/groupifier-next.svg?branch=master)](https://travis-ci.org/jonatanklosko/groupifier-next)
+# groupifier-csv-export.github.io
+Modified version of jonatanklosko's Groupifier that supports outputting to CSV. This allows for making manual changes to staffing assignments and then generating custom name cards and/or scorecards.
+
+Working Github pages version is hosted at: groupifier-csv-export.github.io
+
+# Groupifier
 
 Task and group management tool for WCA competition organizers.
 It's designed to be highly customizable and work well with complex schedules.
