@@ -8,12 +8,12 @@
     "competition",
     "scorecards"
   ],
-  "homepage": "https://rubiks-boy.github.io/groupifier-next/",
+  "homepage": "https://groupifier-csv-export.github.io",
   "author": "Jonatan Kłosko",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rubiks-boy/groupifier-next.git"
+    "url": "https://github.com/groupifier-csv-export/groupifier-csv-export.git"
   },
   "scripts": {
     "start": "react-scripts start",
